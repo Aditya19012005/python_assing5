@@ -8,7 +8,6 @@ This repo contains two Python scripts for Assignment 5.
 - Takes input from the user
 - Displays the marks or shows "Student not found"
 
-- 
 -> Task 2: List Slicing
 - Creates a list from 1 to 10
 - Slices the first 5 elements
